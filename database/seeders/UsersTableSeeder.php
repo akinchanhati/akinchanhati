@@ -39,8 +39,6 @@ class UsersTableSeeder extends Seeder
                 'verification_code' => NULL,
                 'verified' => 1,
             ),
-        ));
-        
-        
+        ));       
     }
 }
