@@ -20,7 +20,6 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akinchanhati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akinchanhati)
 [![GitHub](https://img.shields.io/badge/GitHub-akinchanhati-lightgray?style=for-the-badge&logo=github)](https://github.com/akinchanhati)
-[![Telegram](https://img.shields.io/badge/Telegram-akinchanhati-blue?style=for-the-badge&logo=telegram)](https://t.me/akinchanhati)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akinchanhati.github.io-green?style=for-the-badge&logo=firefox)](https://akinchanhati.github.io)
 
 ---
@@ -46,7 +45,10 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 
 ### 📊 GitHub Stats:
 
-![Akinchan Hati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinchanhati&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+<p>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=akinchanhati&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=akinchanhati&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
 
 ---
 
@@ -63,8 +65,8 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
   - Maintenance and feature updates.
 - **Example Projects:**  
   - [News Portal](http://bangasangbad.com)  
-  - [Library Management](https://ezerx.in)  
-  - [School Portal](https://onlylegal.in)
+  - [Health Check](https://ezerx.in)  
+  - [Law News](https://onlylegal.in)
 
 #### 🛒 **E-commerce Web Application**
 - **Description:** Allows users to sign up as buyers or sellers to purchase or sell products.
@@ -83,7 +85,7 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 
 ### 🎯 Achievements:
 - 🏆 Awarded by **Uaguria Software** for **completing "Only Legal" project** on time.
-- 🎗️ Active in **charity work**.
+- 🎗️ Active in **Charity Work**.
 - 👨‍🏫 Contributed to team productivity through efficient web development.
 
 ---
