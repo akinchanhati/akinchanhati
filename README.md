@@ -28,16 +28,18 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 ### 🛠️ Languages and Tools:
 
 <div>
-  <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/php/php.png" width="26px" />
-  <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="26px" />
-  <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/mysql/mysql.png" width="26px" />
-  <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/68226b5bce3c579a9e5d0d166c6d595c5a0f0a68/topics/html/html.png" width="26px" />
-  <img alt="CSS" src="https://raw.githubusercontent.com/github/explore/68226b5bce3c579a9e5d0d166c6d595c5a0f0a68/topics/css/css.png" width="26px" />
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="26px" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/javascript/javascript.png" width="26px" />
-  <img alt="jQuery" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" width="26px" />
-  <img alt="Git" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/git/git.png" width="26px" />
-  <img alt="Microsoft Office" src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-office/microsoft-office.png" width="26px" />
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40" height="40"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img alt="Microsoft Office" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 </div>
 
 ---
