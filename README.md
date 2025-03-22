@@ -1,18 +1,17 @@
 ### Hi there, I'm Akinchan Hati 👋
 
-Welcome to my GitHub profile, where I **opensource stuff and break things** 🤣
+Welcome to my GitHub profile, where I **open-source stuff and break things** 🤣
 
-- 🔭 I’m currently working on **something really cool** 😉
+- 🔭 I’m currently working as a **Laravel Web Developer**
 - 🌱 I’m learning **everything** 🤣
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me anything [here](https://github.com/akinchanhati/akinchanhati/issues) related to:
-  - **Android Application Development**
-  - **Android Custom OS Development**
-  - **Java, iOS Development, Swift, JavaScript & Spring Boot**
-  - **Security, Data JPA**
+  - **Laravel, PHP, MySQL, RESTful APIs**
+  - **Web Development, E-commerce Platforms**
+  - **HTML, CSS, Bootstrap, JavaScript, jQuery**
 - 📫 Reach me on:
   - [LinkedIn](https://linkedin.com/in/akinchanhati) 
-  - [Email](mailto:akinchanhati@gmail.com) 
+  - [Email](mailto:dev.akinchanhati@gmail.com) 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 ---
@@ -20,31 +19,25 @@ Welcome to my GitHub profile, where I **opensource stuff and break things** 🤣
 ### 🚀 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akinchanhati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akinchanhati)
-[![Twitter](https://img.shields.io/badge/Twitter-@vibhorchaudhry-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vibhorchaudhry)
 [![GitHub](https://img.shields.io/badge/GitHub-akinchanhati-lightgray?style=for-the-badge&logo=github)](https://github.com/akinchanhati)
 [![Telegram](https://img.shields.io/badge/Telegram-akinchanhati-blue?style=for-the-badge&logo=telegram)](https://t.me/akinchanhati)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-akinchanhati-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15557408/sanajit-jana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akinchanhati.github.io-green?style=for-the-badge&logo=firefox)](https://akinchanhati.github.io)
 
 ---
 
 ### 🛠️ Languages and Tools:
 
 <div>
-  <img alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="26px" />
-  <img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="26px" />
-  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="26px" />
-  <img alt="iOS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" width="26px" />
-  <img alt="Swift" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="26px" />
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26px" />
-  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="26px" />
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="26px" />
-  <img alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="26px" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26px" />
-  <img alt="XCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" width="26px" />
-  <img alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px" />
-  <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px" />
-  <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px" />
-  <img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="26px" />
+  <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/php/php.png" width="26px" />
+  <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="26px" />
+  <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/mysql/mysql.png" width="26px" />
+  <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/68226b5bce3c579a9e5d0d166c6d595c5a0f0a68/topics/html/html.png" width="26px" />
+  <img alt="CSS" src="https://raw.githubusercontent.com/github/explore/68226b5bce3c579a9e5d0d166c6d595c5a0f0a68/topics/css/css.png" width="26px" />
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="26px" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/javascript/javascript.png" width="26px" />
+  <img alt="jQuery" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" width="26px" />
+  <img alt="Git" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc2f9c65/topics/git/git.png" width="26px" />
+  <img alt="Microsoft Office" src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-office/microsoft-office.png" width="26px" />
 </div>
 
 ---
@@ -55,10 +48,57 @@ Welcome to my GitHub profile, where I **opensource stuff and break things** 🤣
 
 ---
 
-### 📕 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.akinchanhati/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
-<!-- BLOG-POST-LIST:END -->
+### 💻 Projects:
+
+#### 🌐 **Web Application for Different Customers**
+- **Description:** Integrated business, data, and presentation layers as per requirements.
+- **Tech Stack:** PHP, Laravel, MySQL, jQuery, HTML, CSS, Bootstrap, JavaScript
+- **Role & Responsibility:**
+  - UI design based on business logic.
+  - Validation with regular expressions.
+  - Database design and implementation.
+  - Mail integration.
+  - Maintenance and feature updates.
+- **Example Projects:**  
+  - [News Portal](http://bangasangbad.com)  
+  - [Library Management](https://ezerx.in)  
+  - [School Portal](https://onlylegal.in)
+
+#### 🛒 **E-commerce Web Application**
+- **Description:** Allows users to sign up as buyers or sellers to purchase or sell products.
+- **Tech Stack:** PHP, Laravel, MySQL, jQuery, HTML, CSS, Bootstrap, JavaScript
+- **Role & Responsibility:**
+  - User authentication with validation.
+  - Role-based permissions.
+  - Dashboard with reports.
+  - RESTful APIs for external services.
+  - Shipment tracking using Pickrr.
+- **Live Projects:**  
+  - [E-commerce Platform](https://hohum.in)  
+  - [Concepts Engineers](http://conceptsengineers.in)
+
+---
+
+### 🎯 Achievements:
+- 🏆 Awarded by **Uaguria Software** for **completing "Only Legal" project** on time.
+- 🎗️ Active in **charity work**.
+- 👨‍🏫 Contributed to team productivity through efficient web development.
+
+---
+
+### 🎓 Education:
+- **Bachelor of Computer Application (BCA)** – CCLMS, MAKAUT, West Bengal  
+  - **Grade:** 8.06 DGPA  
+  - **Year:** 2017 - 2020
+- **Higher Secondary (H.S.)** – Depal Baneswar Charubala Vidyamandir, West Bengal  
+  - **Grade:** 55.8%  
+  - **Year:** 2012 - 2014
+
+---
+
+### 🛠️ Certifications:
+- 🛠️ Core PHP training from **Karmick Institute**
+- 🛠️ Diploma in Software Application (DSA) from **Webel Informatics Ltd**
 
 ---
 
