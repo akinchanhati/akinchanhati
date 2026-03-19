@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile, where I **open-source stuff and break things** 🤣
 
-- 🔭 I’m currently working as a **Laravel Web Developer**
+- 🔭 I’m currently working as a **Python & Django Developer**
 - 🌱 I’m learning **everything** 🤣
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me anything [here](https://github.com/akinchanhati/akinchanhati/issues) related to:
-  - **Laravel, PHP, MySQL, RESTful APIs**
+  - **Django, Python, MySQL, RESTful APIs**
   - **Web Development, E-commerce Platforms**
   - **HTML, CSS, Bootstrap, JavaScript, jQuery**
 - 📫 Reach me on:
