@@ -27,8 +27,10 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 ### 🛠️ Languages and Tools:
 
 <div>
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40" height="40"/>
+  <!-- <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> -->
+  <!-- <img alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40" height="40"/> -->
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
