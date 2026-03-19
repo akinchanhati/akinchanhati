@@ -53,7 +53,7 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 </p>
 
 ---
-
+<!--
 ### 💻 Projects:
 
 #### 🌐 **Web Application for Different Customers**
@@ -82,13 +82,7 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 - **Live Projects:**  
   - [E-commerce Platform](https://hohum.in)  
   - [Concepts Engineers](http://conceptsengineers.in)
-
----
-
-### 🎯 Achievements:
-- 🏆 Awarded by **Uaguria Software** for **completing "Only Legal" project** on time.
-- 🎗️ Active in **Charity Work**.
-- 👨‍🏫 Contributed to team productivity through efficient web development.
+  -->
 
 ---
 
@@ -105,6 +99,13 @@ Welcome to my GitHub profile, where I **open-source stuff and break things** �
 ### 🛠️ Certifications:
 - 🛠️ Core PHP training from **Karmick Institute**
 - 🛠️ Diploma in Software Application (DSA) from **Webel Informatics Ltd**
+
+---
+
+### 🎯 Achievements:
+- 🏆 Awarded by **Uaguria Software** for **completing "Only Legal" project** on time.
+- 🎗️ Active in **Charity Work**.
+- 👨‍🏫 Contributed to team productivity through efficient web development.
 
 ---
 
